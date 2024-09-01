@@ -96,8 +96,8 @@ asyncio.run(weatherQ("北京"))
 # 前后省略
 "wind": "东南风"
 ```
-想要拿到warning的值，我们可以观察上面的json，得知想要拿到warning我们需要经过
-`data>warning>warning`
+想要拿到wind的值，我们可以观察上面的json，得知想要拿到warning我们需要经过
+`data>current>wind`
 于是我们可以改写上面的函数
 ```python
 import asyncio  
@@ -116,6 +116,7 @@ print(asyncio.run(weatherQ("北京")))
 北风
 ```
 ##### 解析并返回关键数据
+我们将对其进行进一步改写
 ```python
 import asyncio  
 import json  
