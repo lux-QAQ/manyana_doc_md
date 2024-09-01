@@ -1,11 +1,11 @@
-自行通过编写代码为bot增加功能并不是一件麻烦的事情，得益于python入门([Python3 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/python3/python3-tutorial.html))的简易性，通过阅读下面的教程，即使您不懂代码，也将具备最基本的开发能力。
+通过编写代码为bot增加功能并不是一件麻烦的事情，得益于python入门([Python3 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/python3/python3-tutorial.html))的简易性，通过阅读下面的教程，即使您不懂代码，也将具备最基本的开发能力。
 >前置
 >1.一定的英语基础
 >2.使用搜索引擎解决问题的能力
 >3.一定的阅读和理解能力
 >4.耐心
 # 1.准备开发工具
-好的idle能够使开发事半功倍。
+好的ide能够使开发事半功倍。
 
 这里推荐vsc和pycharm社区版，你可以任选其一，我个人推荐pycharm
 ## vsc安装和配置
@@ -24,7 +24,7 @@
 
 准备妥当后，可以开始开发了。
 我们将以天气查询api为例，完成第一个api功能实现。
-![[/development/Pasted image 20240901125255.png]]
+![[Pasted image 20240901125255.png]]
 ### 1.在plugins创建一个功能函数
 右键plugins文件夹，新建py文件(教程中的命名为test.py，你可以自己调整)，我们开始定义函数。
 #### 同步方式请求
@@ -188,7 +188,7 @@ def main(bot, logger):
 	startVer()  
 	bot.run(asgi_server=None)
 ```
-一般来说你的idle会自动导入myTest.py，如果没有，就在main.py最前面加入一行
+一般来说你的ide会自动导入myTest.py，如果没有，就在main.py最前面加入一行
 ```python
 from run import myTest
 ```

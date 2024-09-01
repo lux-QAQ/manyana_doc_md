@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/doc/develop/Add_components.md",
+                "file": "docs/doc/develop/develop_manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/doc/develop/Add_components.md",
+                "file": "docs/doc/develop/develop_manual.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/doc/develop/Add_components.md",
+                "file": "docs/doc/develop/develop_manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/doc/develop/Add_components.md"
+                "file": "docs/doc/develop/develop_manual.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "b3b38c3a1e363a7c",
   "lastOpenFiles": [
+    "docs/doc/develop/Add_components.md",
     "docs/public/newlogo.jpg",
     "docs/public/1F1830CC948C393426061CC20F950865.jpg",
     "docs/doc/develop/develop_manul.md",
     "docs/doc/develop/develop_manual.md",
-    "docs/doc/develop/Add_components.md",
     "docs/public/development/Pasted image 20240901125255.png",
     "docs/public/dllerror.png",
     "docs/public/back.png",
