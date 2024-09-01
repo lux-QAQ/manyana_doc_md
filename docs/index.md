@@ -5,7 +5,7 @@ layout: home
 hero:
   name: |
     <div style="display: flex; align-items: center;">
-      <img src="\back.png" alt="Manyana Logo" style="max-width: 250px; margin-right: 40px;">
+      <img src="\newlogo.png" alt="Manyana Logo" style="max-width: 250px; margin-right: 40px;">
       <span>Manyana</span>
     </div>
   text: ""
@@ -24,6 +24,6 @@ features:
   - title: 兼容插件
     details: 兼容 Mirai 的插件，插件安装方法和 Mirai 原生的一模一样。
   - title: 内存轻量
-    details: 所需配置仅 2H2G，得益于各种 API 的调用，本地的算力需求极低。仅 Overflow 所需内存较大。
+    details: 所需配置仅 2H2G，得益于各种 API 的调用，本地的算力需求低。叠加overflow后占用较高
 ---
 
