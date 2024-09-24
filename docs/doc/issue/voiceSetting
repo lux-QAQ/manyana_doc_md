@@ -1,3 +1,4 @@
+# 语音合成及其配置
 **当你打开这个页面并希望使用自己的语音模型的时候<br>
 我们默认你已经知道配置文件中的vits、bert_vits2、so-vits对应的是不同的语音合成技术。** 
 
@@ -28,8 +29,8 @@
 |     bert_vits2          |    bert_speakers中选取       |需[自行搭建对应语音合成服务端Bert_Vits2_Sever](https://github.com/avilliai/Bert_Vits2_Sever)，但是可以通过modelscope使用从而无需本地搭建。注意，我们的版本是4.0，非此版本训练出的模型无法通过Bert_Vits2_Sever使用     |
 
 # vits配置方式
-windows默认附带语音模型，以及对应依赖。<br>
-其他平台，首先需要进入bot的更新页面，然后选择 安装vits依赖，等待安装完成。这是因为最新的整合包出于体积考量，已经不再内置vits相关依赖。
+windows整合包默认附带语音模型，以及对应依赖。<br>
+其他平台，首先需要进入bot的更新页面，然后选择 安装vits依赖，等待安装完成。这是因为出于体积考量，windows平台之外的整合包已经不再内置vits相关依赖。
 ### 导入更多模型(可选)
 #### windows用户导入默认模型
 点击launcher/工具页面/一键部署vits模型，重启Manyana，该模型speaker为 薄绿
