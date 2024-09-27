@@ -6,12 +6,13 @@ Manyana 的名字是随便从某个植物百科里面扒拉下来的。
 
 通过 [Mirai](https://github.com/mamoe/mirai) 框架下的 [Mirai-api-http](https://github.com/project-mirai/mirai-api-http) 插件来获取消息，这意味着你可以安装 Mirai 的[其他插件](https://mirai.mamoe.net/topic/32/mirai%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE%E5%92%8C%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/1)。  
 
-目前 [Mirai](https://mirai.mamoe.net/) 生态已经走向衰败了，所以推荐使用 [Overflow](https://github.com/MrXiaoM/Overflow/stargazers) 让 Mirai 框架加入 [Onebot](https://onebot.dev/) 大家庭!
+目前 [Mirai](https://mirai.mamoe.net/) 生态已经走向衰败了，所以推荐使用 [Overflow](https://github.com/MrXiaoM/Overflow/stargazers) 让 Mirai 框架加入 [Onebot](https://onebot.dev/) 大家庭！
 
 ## 开发者相关
 
 目前 Manyana 开发者人数很少，出于学业的原因，更新估计不会很频繁。  
 我们很希望喜欢自己捣鼓机器人或者对我们项目感兴趣的人加入我们，欢迎提交 pr 。开发文档已经 ~~建立文件夹~~ 了。
+Manyana 对现有的[开发者](/doc/contributors.md)做出的贡献致谢。🤗
 
 ## 部署相关
 
@@ -60,9 +61,10 @@ your eyes closed.
 无异于闭眼开车.   
 --Apache 官方文档 Getting started 篇章   
    
-请你根据日志的报错，查看常见问题中的解决方法，如果无法解决再加群`623265372`礼貌提问。
+请你根据日志的报错，查看常见问题中的解决方法，如果无法解决再加群`251807019`礼貌提问。
 ## 免责声明
 1. Onebot实现 与 Manyana项目和本教程无任何关系。
-2. 禁止将Manyana项目和本教程用于任何违法、违规用途。
+2. 禁止将 Manyana 项目和本教程用于任何违法、违规用途。
 3. Manyana项目 为开源免费的项目，仅为学习Python而创建，开发者和本教程对使用其功能、代码、任何附加组件所造成的后果不负任何责任。
+4. Manyana 项目及其相关代码的使用严格遵守对应项目的开源许可证。任何商用目的获取的利益与本项目无关。
 
