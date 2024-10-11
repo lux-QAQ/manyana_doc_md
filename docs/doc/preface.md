@@ -1,7 +1,5 @@
 # Manyana 简介
 
-Manyana 的名字是随便从某个植物百科里面扒拉下来的。  
-
 [功能介绍](https://www.bilibili.com/video/BV1MS421R7PV?p=1)你可以查看B站的视频
 
 通过 [Mirai](https://github.com/mamoe/mirai) 框架下的 [Mirai-api-http](https://github.com/project-mirai/mirai-api-http) 插件来获取消息，这意味着你可以安装 Mirai 的[其他插件](https://mirai.mamoe.net/topic/32/mirai%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE%E5%92%8C%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/1)。  
