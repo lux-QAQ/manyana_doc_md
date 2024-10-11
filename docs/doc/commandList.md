@@ -5,6 +5,7 @@
 # 定时任务
 `对应run/scheduledTasks.py`
 `对应配置文件config/controller.yaml`
+
 ::: info 指令列表
 群聊推送/取消任务
 /推送 摸鱼人日历        
@@ -31,9 +32,11 @@
 
 # 点歌
 `对应run/musicPick.py`
+
 ::: info 指令列表
 点歌 歌曲名
 :::
+
 ### 配置卡片签名地址
 在qq设置-llob设置中，填写卡片签名地址https://ss.xingzhige.com/music_card/card<br>
 重启
